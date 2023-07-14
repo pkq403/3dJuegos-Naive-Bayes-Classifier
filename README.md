@@ -30,11 +30,7 @@ Python program that predicts if an article of 3djuegos would have a positive, ne
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -64,15 +60,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+* Python 3.7.9
+* JSON
+* Web-scrapping
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -85,11 +75,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+If u want a quick dependencies installation, do after repo installation.
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install -r requisites.txt
   ```
+This are probably the only dependencies u will need.
 * Beautiful Soup
   ```sh
   pip install beautifulsoup4
