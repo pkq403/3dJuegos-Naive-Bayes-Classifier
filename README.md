@@ -100,22 +100,23 @@ Just install this repo in your machine!!!
 
 The initial window asks you to input a 3djuegos news url 
 
-<img src="readme-img/inputurltrain.PNG" width="300" height="200">
+<img src="readme-img/inputurltrain.PNG" width="600" height="300">
 
 Then you have to review the comments of the news selected with the buttons (positive, negative or neutral), when you think it's enough you can end the training
 
-<img src="readme-img/reviewcomments.PNG" width="300" height="200">
+<img src="readme-img/reviewcomments.PNG" width="600" height="300">
 
 After that, the program asks u if u want to train with comments of other news, or pass to the test phase.
 
-<img src="readme-img/select.PNG" width="300" height="200">
+<img src="readme-img/select.PNG" width="600" height="300">
 
 If you select the test phase option, you will have to input the link to the news you want to test.
 
-<img src="readme-img/inputurltrain.PNG" width="300" height="200">
+<img src="readme-img/inputurltrain.PNG" width="600" height="300">
 
 Once you input the url, you will seem the prediction results.
-<img src="readme-img/final.PNG" width="300" height="200">
+
+<img src="readme-img/final.PNG" width="600" height="300">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
