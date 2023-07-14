@@ -248,7 +248,7 @@ if __name__=='__main__':
     introtrain_frame.pack()
     introtrain_label = tk.Label(introtrain_frame, text = "Insert 3dJuegos news link", font =("Courier", 14), bg="#F5C043")
     introtrain_label.pack()
-    url_text = tk.Text(introtrain_frame, width=60, height=5, bg = "#EAEB28")
+    url_text = tk.Text(introtrain_frame, width=70, height=8, bg = "#EAEB28")
     url_text.pack()
     buttonto_train = tk.Button(introtrain_frame, text="Train", bg="#53F484", command=gotrain)
     buttonto_train.pack(padx=5, side=tk.RIGHT)
@@ -282,9 +282,9 @@ if __name__=='__main__':
     # Endtrain frame
     endtrain_frame = tk.Frame(root)
     endtrain_frame.configure(bg="#F5C043")
-    button_train = tk.Button(endtrain_frame, text="Train with other news", bg="#1B6FDE", command=loadintrotrain, width=20, height=5)
+    button_train = tk.Button(endtrain_frame, text="Train with other news", bg="#1B6FDE", command=loadintrotrain, width=30, height=8, font =("Courier", 14))
     button_train.grid(row=0, column=0, padx=10, pady=5)
-    button_train2 = tk.Button(endtrain_frame, text="Test phase", bg="#57DE47", command=gotest, width=20, height=5)
+    button_train2 = tk.Button(endtrain_frame, text="Test phase", bg="#57DE47", command=gotest, width=30, height=8, font =("Courier", 14))
     button_train2.grid(row=0, column=1, padx=10, pady=5)
 
     # Test frame 
