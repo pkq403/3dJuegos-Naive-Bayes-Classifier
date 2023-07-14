@@ -6,22 +6,8 @@ Python program that predicts if an article of 3djuegos would have a positive, ne
   <a href="https://github.com/pkq403/3dJuegos-Naive-Bayes-Classifier">
     <img src="icons/3djuegos.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">Naive-Bayes Classifier </h3>
   <h4 align="center"> Has been the reception of the last news positive?</h4>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -103,6 +89,14 @@ This is an example of how to list things you need to use the software and how to
 * npm
   ```sh
   npm install npm@latest -g
+  ```
+* Beautiful Soup
+  ```sh
+  pip install beautifulsoup4
+  ```
+* Requests
+  ```sh
+  pip install requests
   ```
 
 ### Installation
